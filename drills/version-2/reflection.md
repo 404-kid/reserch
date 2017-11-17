@@ -1,5 +1,5 @@
 ## Problem to Research:
-### Should I use a relational or non-relational database?
+## Should I use a relational or non-relational database?
 
 ### Resources Used
 -
