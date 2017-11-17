@@ -1,0 +1,4 @@
+- [ ] At least two resources are referenced
+- [ ] Explains the process by which they found these resources
+- [ ] Includes a description of why those resources were selected
+- [ ] Discusses why each resource was or was not helpful
