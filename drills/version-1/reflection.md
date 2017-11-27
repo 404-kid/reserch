@@ -1,5 +1,4 @@
-## Problem to Research:
-## Use variables in strings with Swift
+## Problem to Research: Use variables in strings with Swift
 
 ### Resources Used
 -

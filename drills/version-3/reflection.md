@@ -1,5 +1,4 @@
-## Problem to Research:
-## Use SSML tags effectively
+## Problem to Research: Use SSML tags effectively
 
 ### Resources Used
 -
