@@ -2,13 +2,13 @@
 
  In this assessment you'll be researching the following problem:
 
- You're writing in Swift. Why doesn't the following code work?
+ You're writing in Swift, and want to output "Hi! I'm 30 years old". Why doesn't the following code do that?
 
  // Begin Code Snippet
 
  var age = 30
 
- print('Hi! I'm' + age + 'years old!')
+ print('Hi! I'm' + age + 'years old')
 
  //End Code Snippet
 
